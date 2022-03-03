@@ -102,14 +102,17 @@ def longest_Shortest_Words(gunners):
 #=================== Question 1 Complete =========================
 display_anwers()
 
-# Function call to find item occurances
+# Function call to find item occurances (Question 1 part A)
 find_item_number(gunners)
 
-# Function call to find item letters
+# Function call to find item letters (Question 1 part B)
 count_length_of_each_item(gunners)
 
+# Function call to find items with less then 6 letters (Question 1 part C)
 new_list_less_then_6(gunners)
 
+# Function call to find items with greater 8 (Question 1 part D)
 length_greater_than_equal(gunners)
 
+# Function call to find longest and shortest items (Question 1 part E)
 longest_Shortest_Words(gunners)
