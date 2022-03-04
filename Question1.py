@@ -2,7 +2,7 @@
 # Author: Wayne Robinson
 # Number: 21205974
 # Python Script Assignment1
-# script: Question1.py
+# Script: Question1.py
 
 # Gunners list containing players second names declared
 gunners = ['ljungberg', 'pires', 'vieira', 'bergkamp', 'henri',
